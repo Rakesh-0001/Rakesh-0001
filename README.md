@@ -37,16 +37,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
-<img  align="center" alt="Coding" height="50px" width="40px" src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png"/>
-<img  align="center" alt="Coding" height="50px" width="40px" src="https://e7.pngegg.com/pngimages/188/673/png-clipart-cascading-style-sheets-css3-bootstrap-valid-blue-angle-thumbnail.png"/>
-<img  align="center" alt="Coding" height="50px" width="40px" src="https://i.pinimg.com/originals/28/75/3d/28753ddf79d70042ba86564947e13bf5.png"/>
-<img  align="center" alt="Coding" height="50px" width="40px" src="https://c0.klipartz.com/pngpicture/452/495/gratis-png-reaccionar-javascript-angularjs-ionic-github.png"/>
-<img  align="center" alt="Coding" height="50px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/>
-<img  align="center" alt="Coding" height="50px" width="40px" src="https://w7.pngwing.com/pngs/104/444/png-transparent-software-testing-angularjs-user-interface-test-automation-python-stickers-angle-rectangle-logo.png"/>
-<img  align="center" alt="Coding" height="50px" width="40px" src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png"/>
-<img  align="center" alt="Coding" height="50px" width="40px" src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png"/>
-<img  align="center" alt="Coding" height="50px" width="40px" src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png"/>
-<img  align="center" alt="Coding" height="50px" width="40px" src="https://w7.pngwing.com/pngs/212/608/png-transparent-oracle-original-logo-icon-thumbnail.png"/>
+<img  align="center" alt="Coding" height="60px" width="50px" src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png"/>
+<img  align="center" alt="Coding" height="60px" width="50px" src="https://e7.pngegg.com/pngimages/188/673/png-clipart-cascading-style-sheets-css3-bootstrap-valid-blue-angle-thumbnail.png"/>
+<img  align="center" alt="Coding" height="50px" width="50px" src="https://i.pinimg.com/originals/28/75/3d/28753ddf79d70042ba86564947e13bf5.png"/>
+<img  align="center" alt="Coding" height="50px" width="50px" src="https://c0.klipartz.com/pngpicture/452/495/gratis-png-reaccionar-javascript-angularjs-ionic-github.png"/>
+<img  align="center" alt="Coding" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/>
+<img  align="center" alt="Coding" height="50px" width="50px" src="https://w7.pngwing.com/pngs/104/444/png-transparent-software-testing-angularjs-user-interface-test-automation-python-stickers-angle-rectangle-logo.png"/>
+<img  align="center" alt="Coding" height="50px" width="50px" src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png"/>
+<img  align="center" alt="Coding" height="50px" width="50px" src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png"/>
+<img  align="center" alt="Coding" height="50px" width="50px" src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png"/>
+<img  align="center" alt="Coding" height="50px" width="50px" src="https://w7.pngwing.com/pngs/212/608/png-transparent-oracle-original-logo-icon-thumbnail.png"/>
 
   
 </div>
