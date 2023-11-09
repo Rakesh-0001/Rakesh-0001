@@ -1,5 +1,5 @@
 <img  align="center" alt="Coding" min-height="350" min-width="50%" src="https://rakesh-0001.github.io/Rakesh-portfolio-/logo.png"/>
-<img  align="center" alt="Coding" height="350" width="100%" src="https://media3.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=ecf05e479i9a4sqh9pmtbr8pqafq8sxxkfkhsxi0tdldi8lf&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
+<img  align="center" alt="Coding" min-height="350" min-width="100%" src="https://media3.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=ecf05e479i9a4sqh9pmtbr8pqafq8sxxkfkhsxi0tdldi8lf&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
 
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
