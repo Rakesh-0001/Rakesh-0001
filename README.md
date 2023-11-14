@@ -19,13 +19,13 @@
 
 - 🤝 I’m looking for help with **full-stack developer - hr**
 
-- 👨‍💻 All of my projects are available at [https://rakesh-0001.github.io/Rakesh-portfolio/](https://rakesh-0001.github.io/Rakesh-portfolio/)
+- 👨‍💻 All of my projects are available at [https://rakesh-0001.github.io/Rakesh-portfolio/](https://rakesh-0001.github.io/Rakesh-portfolio-/)
 
 - 📝 I regularly write articles on [https://instagram.com/_rakkiii_tentacion_?igshid=MzNlNGNkZWQ4Mg==](https://instagram.com/_rakkiii_tentacion_?igshid=MzNlNGNkZWQ4Mg==)
 
 - 💬 Ask me about **Html,Css,JavaScript,ReactJs,Bootstrap**
 
-- 📫 How to reach me **https://rakesh-0001.github.io/Rakesh-portfolio/**
+- 📫 How to reach me **https://rakesh-0001.github.io/Rakesh-portfolio-/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Bc9xkZNTyN_ok2BOB69XormbcL-o-i6s/view?usp=drivesdk](https://drive.google.com/file/d/1Bc9xkZNTyN_ok2BOB69XormbcL-o-i6s/view?usp=drivesdk)
 
