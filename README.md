@@ -48,6 +48,8 @@
 <img  align="center" alt="Coding" height="30px" width="30px" src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png"/>
 <img  align="center" alt="Coding" height="30px" width="30px" src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png"/>
 <img  align="center" alt="Coding" height="30px" width="30px" src="https://w7.pngwing.com/pngs/212/608/png-transparent-oracle-original-logo-icon-thumbnail.png"/>
+<img  align="center" alt="Coding" height="30px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"/>
+<img  align="center" alt="Coding" height="30px" width="30px" src="https://1000logos.net/wp-content/uploads/2020/08/Shopify-Logo.jpg"/>
 
   
 </div>
