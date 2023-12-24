@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">front-end developer | back-end developer | full-stack developer</h3>
+<h3 align="center"> Front-End Developer | ReactJs Developer | WordPress Developer </h3>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
@@ -11,9 +11,9 @@
 <br>
 
 
-- 🔭 I’m currently working on **freelancer**
+- 🔭 I’m currently working on **WordPress Developer**
 
-- 🌱 I’m currently learning **springboot**
+- 🌱 I’m currently learning **Php**
 
 - 👯 I’m looking to collaborate on **developers**
 
@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://instagram.com/_rakkiii_tentacion_?igshid=MzNlNGNkZWQ4Mg==](https://instagram.com/_rakkiii_tentacion_?igshid=MzNlNGNkZWQ4Mg==)
 
-- 💬 Ask me about **Html,Css,JavaScript,ReactJs,Bootstrap**
+- 💬 Ask me about **Html,Css,JavaScript,ReactJs,Bootstrap,wordpress**
 
 - 📫 How to reach me **https://rakesh-0001.github.io/Rakesh-portfolio-/**
 
