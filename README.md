@@ -11,23 +11,23 @@
 <br>
 
 
-- 🔭 I’m currently working on **WordPress Developer**
+- 🔭 I’m currently working on **React Js Developer**
 
-- 🌱 I’m currently learning **Php**
+- 🌱 I’m currently learning **Next Js**
 
 - 👯 I’m looking to collaborate on **developers**
 
 - 🤝 I’m looking for help with **full-stack developer - hr**
 
-- 👨‍💻 All of my projects are available at [https://rakesh-0001.github.io/Rakesh-portfolio/](https://rakesh-0001.github.io/Rakesh-portfolio-/)
+- 👨‍💻 All of my projects are available at [https://rakesh23.netlify.app/](https://rakesh23.netlify.app/)
 
-- 📝 I regularly write articles on [https://instagram.com/_rakkiii_tentacion_?igshid=MzNlNGNkZWQ4Mg==](https://instagram.com/_rakkiii_tentacion_?igshid=MzNlNGNkZWQ4Mg==)
+- 📝 I regularly write articles on [https://instagram.com/rakkiii_kettavan](https://instagram.com/rakkiii_kettavan)
 
-- 💬 Ask me about **Html,Css,JavaScript,ReactJs,Bootstrap,wordpress**
+- 💬 Ask me about **Html,Css,JavaScript,ReactJs,Angular,Next js ,Bootstrap,wordpress,Shopify **
 
-- 📫 How to reach me **https://rakesh-0001.github.io/Rakesh-portfolio-/**
+- 📫 How to reach me **https://rakesh23.netlify.app/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Bc9xkZNTyN_ok2BOB69XormbcL-o-i6s/view?usp=drivesdk](https://drive.google.com/file/d/1Bc9xkZNTyN_ok2BOB69XormbcL-o-i6s/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NLQAZ4E2hn0-TpADZdS78jqiLipG9yTa/view?usp=sharing](https://drive.google.com/file/d/1NLQAZ4E2hn0-TpADZdS78jqiLipG9yTa/view?usp=sharing)
 
 - ⚡ Fun fact **I'M NOT PERFECT,BUT I'M ALWAYS DIFFERENT**
 
